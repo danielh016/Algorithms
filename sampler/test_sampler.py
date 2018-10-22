@@ -5,7 +5,7 @@ Daniel Hu
 
 
 import random
-from Reservoir import Reservoir
+from reservoir import Reservoir
 
 k = 10  # sample size
 stream = []  # record the actual stream, for testing purpose

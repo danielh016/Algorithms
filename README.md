@@ -56,7 +56,7 @@ Implementing Data Structure / Similarity / Stream / Big Data / Machine Learning 
 - l_0 Sampling
 
 #### Counters
-- Morris Counter
+- [Morris Counter](https://github.com/RainRush/Algorithms/blob/master/counter/morris_counter.py)
 
 #### Hash Functions
 - 2-Universal Hash Function
