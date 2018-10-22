@@ -5,12 +5,12 @@ Daniel Hu
 
 
 import random
-from reservoir import reservoir
+from Reservoir import Reservoir
 
 k = 10  # sample size
 stream = []  # record the actual stream, for testing purpose
 
-res_sample = reservoir(k)  # new reservoir class
+res_sample = Reservoir(k)  # new reservoir class
 
 for i in range(0, 100):
     num = int(random.uniform(1, 1001))  # randomly generate the stream
