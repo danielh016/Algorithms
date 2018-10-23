@@ -66,6 +66,7 @@ Implementing Data Structure / Similarity / Stream / Big Data / Machine Learning 
 - BJKST
 
 #### Frequency Items
+- [Misra-Gries](https://github.com/RainRush/Algorithms/blob/master/frequent/misra_gries.py)
 - F_2 Sketch (by AMS)
 - Count-min Sketch
 - Count Sketch
