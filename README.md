@@ -32,14 +32,16 @@ Implementing Data Structure / Similarity / Stream / Big Data / Machine Learning 
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d94e5903f7936d3c131e040ef2c51b473dd071d">
 
 - Jaccard Similarity
-- Edit Distance
-- Levenshtein Distance
-- Damerau-Levenshtein Distance
 - Hamming Distance
 
 ## Approximate String Search Algorithms
 #### Orthography
 - N-Gram
+- Edit Distance
+- [Levenshtein Distance](https://github.com/RainRush/Algorithms/blob/master/approximate/lev_distance.py)
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4520f5376b54613a5b0e6c6db46083989f901821">
+ 
+- Damerau-Levenshtein Distance
 
 #### Phonetic
 - Soundex
