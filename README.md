@@ -13,11 +13,11 @@ Implementing Data Structure / Similarity / Stream / Big Data / Machine Learning 
 - [Selection Sort](https://github.com/RainRush/Algorithms/blob/master/sort/selection_sort.py)
 - [Mergesort](https://github.com/RainRush/Algorithms/blob/master/sort/merge_sort.py)
 - [Heapsort](https://github.com/RainRush/Algorithms/blob/master/sort/heap_sort.py)
+- Shell Sort
+- Radix Sort
 - Timsort
 - Tree Sort
-- Shell Sort
 - Bucket Sort
-- Radix Sort
 - Counting Sort
 - Cubesort
 
@@ -31,18 +31,20 @@ Implementing Data Structure / Similarity / Stream / Big Data / Machine Learning 
 - [Cosine Similarity](https://github.com/RainRush/Algorithms/blob/master/similarity/cosine_similarity.py)
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d94e5903f7936d3c131e040ef2c51b473dd071d">
 
-- Jaccard Similarity
 - Hamming Distance
+- Jaccard Similarity
 
 ## Approximate String Search Algorithms
 #### Orthography
-- N-Gram
 - [BiGram](https://github.com/RainRush/Algorithms/blob/master/approximate/bigram.py)
-- Edit Distance
 - [Levenshtein Distance](https://github.com/RainRush/Algorithms/blob/master/approximate/lev_distance.py)
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4520f5376b54613a5b0e6c6db46083989f901821">
  
-- Damerau-Levenshtein Distance
+- [Damerau-Levenshtein Distance](https://github.com/RainRush/Algorithms/blob/master/approximate/dam_lev_distance.py)
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/22ea8d20aa45964a576e30f15646feecdef1b5b7">
+
+- Edit Distance
+
 
 #### Phonetic
 - Soundex
