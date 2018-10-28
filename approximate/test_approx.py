@@ -6,6 +6,7 @@ import time
 from lev_distance import lev_distance
 from bigram import bigram
 from dam_lev_distance import dam_lev_distance
+from soundex import soundex
 
 
 def test_lev(token):

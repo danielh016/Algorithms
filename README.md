@@ -46,8 +46,9 @@ Implementing Data Structure / Similarity / Stream / Big Data / Machine Learning 
 - Edit Distance
 
 
-#### Phonetic
-- Soundex
+#### Phonetic Algorithm
+- [Soundex](https://github.com/RainRush/Algorithms/blob/master/phonetic/soundex.py)
+- NYSIIS
 - Metaphone
 
 
